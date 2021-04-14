@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Lim Green Color
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Lim Green Color
+MetacityTheme=Lim Green Color
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
